@@ -1,5 +1,6 @@
 # COVID-19 Analysis using Plotly Express
 
+![](https://media.licdn.com/dms/image/v2/D5612AQHyB12qBFsLHw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1698239936118?e=1746662400&v=beta&t=H2QtcCSZ6Pufh6CewKn1Pyt020Kygerz2Hx-qEp-FCs)
 ## Project Overview
 This project aims to analyze COVID-19 data and visualize it using Plotly Express in Python. It includes various statistical and graphical representations to better understand the global impact of the pandemic. The project generates high-quality bar charts, choropleth maps, scatter plots, and bubble charts to provide a comprehensive view of the pandemic’s spread, severity, and testing efforts worldwide.
 
